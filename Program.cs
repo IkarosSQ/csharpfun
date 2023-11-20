@@ -24,6 +24,16 @@ namespace csharpfun
                 Console.WriteLine("2");
                 Console.ReadKey();
                 Console.WriteLine("1");
+            } else if ("start the turret factory" == personChoice)
+            {
+                Console.WriteLine("GLaDOS: " + "turret factory starting in");
+                Console.ReadKey();
+                Console.WriteLine("3");
+                Console.ReadKey();
+                Console.WriteLine("2");
+                Console.ReadKey();
+                Console.WriteLine("1");
+
             }
             Console.ReadKey();
         }
