@@ -1,0 +1,14 @@
+C:\Users\Bruker\Desktop\csharpfun\bin\Debug\net7.0\csharpfun.exe
+C:\Users\Bruker\Desktop\csharpfun\bin\Debug\net7.0\csharpfun.deps.json
+C:\Users\Bruker\Desktop\csharpfun\bin\Debug\net7.0\csharpfun.runtimeconfig.json
+C:\Users\Bruker\Desktop\csharpfun\bin\Debug\net7.0\csharpfun.dll
+C:\Users\Bruker\Desktop\csharpfun\bin\Debug\net7.0\csharpfun.pdb
+C:\Users\Bruker\Desktop\csharpfun\obj\Debug\net7.0\csharpfun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruker\Desktop\csharpfun\obj\Debug\net7.0\csharpfun.AssemblyInfoInputs.cache
+C:\Users\Bruker\Desktop\csharpfun\obj\Debug\net7.0\csharpfun.AssemblyInfo.cs
+C:\Users\Bruker\Desktop\csharpfun\obj\Debug\net7.0\csharpfun.csproj.CoreCompileInputs.cache
+C:\Users\Bruker\Desktop\csharpfun\obj\Debug\net7.0\csharpfun.dll
+C:\Users\Bruker\Desktop\csharpfun\obj\Debug\net7.0\refint\csharpfun.dll
+C:\Users\Bruker\Desktop\csharpfun\obj\Debug\net7.0\csharpfun.pdb
+C:\Users\Bruker\Desktop\csharpfun\obj\Debug\net7.0\csharpfun.genruntimeconfig.cache
+C:\Users\Bruker\Desktop\csharpfun\obj\Debug\net7.0\ref\csharpfun.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+EO7jRme4RO8REBakC6sArrnRYJyv35Mc90/yZd/cs2YGdPeXGSOCTRF74OlP0OuFn/7EoyM9chMvrmhhMWxwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruker\\Desktop\\csharpfun\\csharpfun.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruker\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Bruker\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Bruker\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Bruker\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
