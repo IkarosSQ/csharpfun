@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Dynamic;
 
 namespace csharpfun 
 {
@@ -9,12 +10,16 @@ namespace csharpfun
             Console.Title = "GLaDOS";
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             
-            Console.WriteLine("Hello, Aperture enrichment center");
+            Console.WriteLine("Hello, I am GLaDOS");
             Console.WriteLine("what would you like me to do?");
             
-            Console.ReadLine();
-            Console.WriteLine("Sorry i dont know what you're wanting me to do.");
+            string personChoice = Console.ReadLine();
 
+            if ("could you get me nerotoxin?" == personChoice)
+            {
+                Console.WriteLine("GLaDOS:" + "nerotoxin will be deployed in \n 3 \n 2 \n 1");
+
+            }
             Console.ReadKey();
         }
     }
