@@ -12,3 +12,4 @@ C:\Users\Bruker\Desktop\csharpfun\obj\Debug\net7.0\refint\csharpfun.dll
 C:\Users\Bruker\Desktop\csharpfun\obj\Debug\net7.0\csharpfun.pdb
 C:\Users\Bruker\Desktop\csharpfun\obj\Debug\net7.0\csharpfun.genruntimeconfig.cache
 C:\Users\Bruker\Desktop\csharpfun\obj\Debug\net7.0\ref\csharpfun.dll
+C:\Users\Bruker\Desktop\csharpfun\obj\Debug\net7.0\csharpfun.sourcelink.json
