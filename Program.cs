@@ -7,7 +7,7 @@ namespace csharpfun
         static void Main(string[] args)
         {
             Console.Title = "GLaDOS";
-            Console.ForegroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
             
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bitch");
