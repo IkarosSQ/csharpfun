@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharpfun")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff16a19e0cdf65e013996eadb4e60ad525940239")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharpfun")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharpfun")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
