@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 using System.Dynamic;
 
 namespace csharpfun 
@@ -10,7 +11,7 @@ namespace csharpfun
             Console.Title = "GLaDOS";
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             
-            Console.WriteLine("Hello, I am GLaDOS \n please write password");
+            Console.WriteLine("Hello, I am GLaDOS \nPlease enter password:");
             string personChoice1 = Console.ReadLine();
             if ("cakelie" == personChoice1) 
             {
@@ -18,7 +19,8 @@ namespace csharpfun
             } else if ("cakelie" != personChoice1) 
             {
                 Console.WriteLine("INCORRECT");
-                return;
+                Console.Beep(550, 1000);
+                Process.Start("chrome.exe", "https://www.youtube.com/watch?v=dQw4w9WgXcQ");
             }
             
             Console.WriteLine("GLaDOS: what would you like me to do?");
